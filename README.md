@@ -15,9 +15,9 @@ Este é um projeto simple de visualização de dados tratados no processo de ETL
 
 ## 🚀 Como usar
 
-1. clone o repositório para seu git.
-2. Baixe os arquivos para seu terminal
-2.1 - Importante ter o powerbi desktop instalado em seu terminal.
+1. clone o repositório para o seu git (Fork).
+2. Baixe os arquivos em seu terminal.
+2.1 - Importante ter o POWERBI desktop instalado em seu terminal.
 3. Utilize o PowerBi desktop para abrir o arquivo .pbix para visualização do Dash.
 
 🛠️ Tecnologias utilizadas
@@ -32,4 +32,5 @@ Este é um projeto simple de visualização de dados tratados no processo de ETL
 🎨 📸 Demonstração 
 
 <img width="792" height="448" alt="image" src="https://github.com/user-attachments/assets/dd0d499d-d7ec-4a66-b398-3b4d7f8c1a7a" />
+
 
