@@ -30,4 +30,5 @@ Este é um projeto simple de visualização de dados tratados no processo de ETL
 * Curso Master PowerBI - De AàZ - Prof. Felipe Mafra - disponivel na plataforma Udemy.com, visualização gerada na seção 3: Caso de Estudo - Primeiro Dashboard.
 
 🎨 📸 Demonstração 
-![alt text](image.png)
+
+<img width="792" height="448" alt="image" src="https://github.com/user-attachments/assets/dd0d499d-d7ec-4a66-b398-3b4d7f8c1a7a" />
